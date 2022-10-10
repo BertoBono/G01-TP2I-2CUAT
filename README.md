@@ -1,2 +1,3 @@
-# G01-TP2I-2CUAT
-Juego de generar una palabra a partir de 2 letras DELUXE EDITION 2022
+# G01-TP Interdisciplinario - 2CUAT
+
+WORDS.inc (Juego de generar una palabra a partir de dos letras)
